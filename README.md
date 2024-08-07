@@ -1,4 +1,4 @@
-###Oi! Meu nome é**Gustvo**
+**Oi! Meu nome é Gustvo**
 
 Criei esse perfil para fazer projetos da Alura
 
